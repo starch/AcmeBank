@@ -1,0 +1,1 @@
+start javaw -jar Bank.jar temp.bnk
